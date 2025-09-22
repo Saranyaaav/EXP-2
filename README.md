@@ -49,7 +49,13 @@ Fuse rating calculation for field and armature:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 ## Tabulation for Open Circuit Test and  Load Test and output:
-
+![WhatsApp Image 2025-09-22 at 10 55 55 PM](https://github.com/user-attachments/assets/0770537e-dd18-4eab-93d5-f34e2bd9a892)
+![WhatsApp Image 2025-09-22 at 10 55 55 PM (1)](https://github.com/user-attachments/assets/9fd6a93f-c25f-479a-92ac-150c3b6f2567)
+![WhatsApp Image 2025-09-22 at 10 57 00 PM](https://github.com/user-attachments/assets/dd40be98-1767-4949-aec3-9e5d7a70900e)
+![WhatsApp Image 2025-09-22 at 10 57 27 PM](https://github.com/user-attachments/assets/6e9bab7a-3ed8-4a48-ab90-d31c071126fd)
+![WhatsApp Image 2025-09-22 at 10 58 14 PM](https://github.com/user-attachments/assets/3d25fb47-1d36-4505-b02a-3081d813445c)
+![WhatsApp Image 2025-09-22 at 10 58 34 PM](https://github.com/user-attachments/assets/5b2c4cea-744b-4189-9ef4-de54c3640ee3)
+![WhatsApp Image 2025-09-22 at 10 59 01 PM](https://github.com/user-attachments/assets/451dad1e-909f-49f4-b53b-7d9a7896ebb5)
 
 
 <img width="1075" height="624" alt="image" src="https://github.com/user-attachments/assets/b0346d73-44a3-4dba-9b1f-d70301cac158" />
